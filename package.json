@@ -1,0 +1,17 @@
+{
+  "name": "terraform-auth0-cli-poc",
+  "version": "1.0.0",
+  "description": "Prerequisites:",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auth0-deploy-cli": "^7.20.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  }
+}
