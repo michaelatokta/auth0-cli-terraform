@@ -74,8 +74,10 @@ cd $DEST_DIR
 
 .env file content
 
+```txt
 DEST_AUTH0_DOMAIN=-auth0-domain-
 DEST_AUTH0_CLIENT_ID=-m2m-app-for-terraform-client-id-
 DEST_AUTH0_CLIENT_NAME=-m2m-app-for-terraform-client-name-
 DEST_AUTH0_CLIENT_SECRET=-m2m-app-for-terraform-client-secret-
 EMPTY_LOCATION=./configs-empty
+```
